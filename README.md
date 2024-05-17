@@ -43,3 +43,6 @@ Ensure you have the following installed on your local machine:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
+
+The server will be running at [http://localhost:8000/graphql](http://localhost:8000/graphql).
+
