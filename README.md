@@ -1,17 +1,17 @@
-GraphQL API with SQL Database in Docker
+###GraphQL API with SQL Database in Docker
 
 This project demonstrates how to create a GraphQL API using the Strawberry library with FastAPI, a SQL database, containerized with Docker, and run it on a local server. The setup provides a seamless way to develop and test GraphQL queries and mutations with a robust SQL database backend.
 
-Table of Contents
+###Table of Contents
 
-Features
-Prerequisites
-Installation
-Running the Project
-Usage
-Project Structure
-Contributing
-License
+##Features
+##Prerequisites
+##Installation
+##Running the Project
+##Usage
+##Project Structure
+##Contributing
+##License
 Features
 
 GraphQL API for querying and mutating data
